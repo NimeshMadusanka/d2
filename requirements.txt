@@ -24,4 +24,3 @@ PyYAML==3.12
 six==1.10.0
 tensorflow==0.12.1
 Theano==0.8.2
-Werkzeug==0.11.15
